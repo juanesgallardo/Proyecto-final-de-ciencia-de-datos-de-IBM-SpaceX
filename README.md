@@ -17,7 +17,7 @@ SpaceX anuncia el lanzamiento del cohete Falcon 9 en su sitio web, con un costo 
 Precisión de clasificación: número de predicciones correctas dividido por el número total de predicciones, definido como:
 $$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
 
-![Confusion matrix](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG)
+![Confusion matrix]([https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG](https://github.com/juanesgallardo/Proyecto-final-de-ciencia-de-datos-de-IBM-SpaceX/blob/main/Plots/Confusion%20matrix.PNG))
 
 ## Entregables
 * Algoritmos predictivos precisos
