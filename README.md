@@ -1,7 +1,7 @@
 # IBM Data Science Capstone Project - SpaceX
 
 
-##Introducción
+###Introducción
 
 En este proyecto final, se predecirá si la primera etapa del Falcon 9 aterrizará con éxito. SpaceX anuncia lanzamientos de cohetes Falcon 9 en su sitio web, con un costo de 62 millones de dólares; otros proveedores cuestan más de 165 millones de dólares cada uno. Gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa. Por lo tanto, si podemos determinar si la primera etapa aterrizará, podemos determinar el costo del lanzamiento. Esta información puede utilizarse si otra empresa desea pujar contra SpaceX por el lanzamiento de un cohete.
 
